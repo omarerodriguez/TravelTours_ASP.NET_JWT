@@ -1,0 +1,154 @@
+[
+  {
+    "Name": "Curva de la Herradura",
+    "Description": "El Río Colorado es una de las mayores atracciones naturales de Estados Unidos, y eso que se trata de un país que se destaca por su maravillosa y variada geografía. La Curva de la Herradura es uno de los sectores más convocantes de este río. Se puede acceder a él tras una caminata de 2,4 kilómetros. El espectáculo es increíble en cualquier hora del día, pero especialmente al atardecer.",
+    "ApproximateCost": 2500,
+    "ImageUrl": "imagenes/places/lugar1.png",
+    "CountryId": 1,
+    "CategoryId": 4
+  },
+  {
+    "Name": "Parque Nacional del Cañón Bryce",
+    "Description": "Esta zona de Utah es tierra de mormones, los primeros blancos que se asentaron en el lugar, allá por el año 1850.",
+    "ApproximateCost": 1150,
+    "ImagenUrl": "imagenes/places/lugar2.png",
+    "CountryId": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "El valle de la Muerte",
+    "Description": "El paisaje es increíble, al punto de que fue el escenario de muchas películas. ¿Recuerdas la escena en que Obi-Wan conoce a Luke, en la Guerra de las Galaxias: Una nueva esperanza? Pues sí, se filmó aquí.",
+    "ApproximateCost": 750,
+    "ImageUrl": "imagenes/places/lugar3.png",
+    "CountryId": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Parque Nacional de los Arcos",
+    "Description": "Se trata de otro famoso parque nacional de Utah que alberga alrededor de 2.000 arcos naturales. Aquí se filmó las escenas iniciales de Indiana Jones y la última cruzada. ¡Larga vida a Indy!",
+    "ApproximateCost": 850,
+    "ImageUrl": "imagenes/places/lugar4.png",
+    "CountryId": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "La Estatua de la Libertad",
+    "Description": "Se trata de una de las estatuas más famosas del mundo y un verdadero símbolo de Estados Unidos. No hay que perdérsela.",
+    "ApproximateCost": 650,
+    "ImageUrl": "imagenes/places/lugar5.png",
+    "CountryId": 1,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Minas de sal de Nemocón, Cundinamarca",
+    "Description": "Nemocón es un pueblo en Cundinamarca famoso por su gran actividad minera. A pocos kilómetros de Bogotá, se puede llegar a este lugar para explorar las minas de sal que están abiertas al público, donde se pueden apreciar los increíbles espejos de agua adecuados con hermosa iluminación.",
+    "ApproximateCost": 250,
+    "ImageUrl": "imagenes/places/lugar6.png",
+    "CountryId": 2,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Parque Nacional Natural El Tuparro, Vichada",
+    "Description": "Visitar el extremo norte del país y del continente suramericano es una experiencia inigualable. Punta Gallinas ofrece paisajes espectaculares pasando por desiertos, playas, bahías con flamencos rosados y gigantes dunas de arena dorada. También se puede vivir la experiencia de compartir con la comunidad indígena Wayuu.",
+    "ApproximateCost": 150,
+    "ImageUrl": "imagenes/places/lugar7.png",
+    "CountryId": 2,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Punta Gallinas, La Guajira",
+    "Description": "El Parque Nacional Natural El Tuparro es una reserva natural de gran extensión en el departamento de Vichada que ofrece al visitante hermosos ríos, gran variedad de vegetación, la posibilidad de ver jaguares, tapires y animales de la región, además de cientos de especies de aves.",
+    "ApproximateCost": 350,
+    "ImageUrl": "imagenes/places/lugar8.png",
+    "CountryId": 2,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Reserva Río Claro, Antioquia",
+    "Description": "A tres horas de la capital antioqueña se encuentra Río Claro, una hermosa reserva donde se observa el paso del río en medio de un cañón con hermosas formaciones en mármol. En Río Claro se pueden hacer actividades como rafting, canopy, exploración de las cavernas y avistamiento de aves.",
+    "ApproximateCost": 250,
+    "ImageUrl": "imagenes/places/lugar9.png",
+    "CountryId": 2,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Santuario de las Lajas, Nariño",
+    "Description": "El Santuario de las Lajas es una iglesia católica ubicada en Ipiales, sobre el cañón del río Guáitara, muy cercana a la frontera con Ecuador. La construcción es de estilo neogótico y está hecha en piedra gris y blanca. Ha sido catalogada como una de las iglesias más bonitas del mundo por el diario británico The Telegraph. Hoy en día es uno de los principales sitios turísticos del departamento de Nariño.",
+    "ApproximateCost": 252,
+    "ImageUrl": "imagenes/places/lugar10.png",
+    "CountryId": 2,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Volcán Cotopaxi",
+    "Description": "El Cotopaxi tiene una elevación de 5.897msnm es el segundo de más altura del país (siendo precedido por el Chimborazo) y uno de los volcanes activos más altos del mundo.",
+    "ApproximateCost": 222,
+    "ImageUrl": "imagenes/places/lugar11.png",
+    "CountryId": 3,
+    "CategoryId": 4
+  },
+  {
+    "Name": "Parque Nacional Galápagos",
+    "Description": "El Parque Nacional Galápagos es un parque nacional de Ecuador. Fue fundado en 1959 y se convirtió en el primer parque nacional del país. Abarca unos 7.995,4 km², un 97% de las islas Galápagos.",
+    "ApproximateCost": 352,
+    "ImageUrl": "imagenes/places/lugar12.png",
+    "CountryId": 3,
+    "CategoryId": 2
+  },
+  {
+    "Nombre": "Malecón 2000",
+    "Description": "Malecón 2000, ubicado en la ciudad de Guayaquil, junto al río Guayas, es un proyecto de regeneración urbana del antiguo Malecón Simón Bolívar, de 2.5 km de extensión en donde se puede disfrutar de los grandes monumentos de la historia de Guayaquil.",
+    "ApproximateCost": 152,
+    "ImageUrl": "imagenes/places/lugar13.png",
+    "CountryId": 3,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Huasteca Potosina en San Luis Potosí",
+    "Description": "La Huasteca Potosina es un amplio espacio del estado de San Luis Potosí, que reúne un conjunto de municipios y atracciones, como si estuvieras en un pequeño país, presto a disfrutar de todos los encantos posibles.",
+    "ApproximateCost": 152.22,
+    "ImageUrl": "imagenes/places/lugar14.png",
+    "CountryId": 4,
+    "CategoryId": 2
+  },
+  {
+    "Nombre": "Palenque en Chiapas",
+    "Description": "Es una ciudad de origen maya en el estado de Chiapas, cuyos principales atractivos son sus yacimientos arqueológicos y sus hermosas cascadas. Buena parte de la zona arqueológica está aún por desenterrar, permaneciendo sepultada en la selva, pero lo que se ha develado es impresionante.",
+    "ApproximateCost": 112.23,
+    "ImageUrl": "imagenes/places/lugar15.png",
+    "CountryId": 4,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Zócalo y Catedral de Nuestra Señora de Guadalupe",
+    "Description": "La Plaza de la Constitución, nombre oficial del famoso zócalo de Ciudad de México, es el centro neurálgico del país. Es el lugar de todas las celebraciones magnas y está rodeado de las edificaciones más emblemáticas de la nación.",
+    "ApproximateCost": 12.23,
+    "ImageUrl": "imagenes/places/lugar16.png",
+    "CountryId": 4,
+    "CategoryId": 5
+  },
+  {
+    "Name": "Palacio de Bellas Artes",
+    "Description": "La majestuosa edificación en estilos modernista y art decó es el símbolo de la alta cultura, no solo de Ciudad de  México, sino de todo el país.",
+    "ApproximateCost": 10.23,
+    "ImageUrl": "imagenes/places/lugar17.png",
+    "CountryId": 4,
+    "CategoryId": 5
+  },
+  {
+    "Nombre": "Machu Picchu",
+    "Description": "Machu Picchu, la ciudad perdida de los incas y una de las siete maravillas del mundo, es el lugar que visitar en Perú más imprescindible. Esta antigua ciudadela inca, permaneció durante siglos escondida entre las montañas y la espesa vegetación, hasta que la descubrió el explorador estadounidense Hiram Bingham en el año 1911.",
+    "ApproximateCost": 200.23,
+    "ImageUrl": "imagenes/places/lugar18.png",
+    "CountryId": 5,
+    "CategoryId": 1
+  },
+  {
+    "Name": "El Valle de la Luna, San Juan",
+    "Description": "Si además de disfrutar de las playas en Argentina también deseas aprender sobre nuestra historia, tienes que visitar el Valle de la Luna.",
+    "ApproximateCost": 600.23,
+    "ImageUrl": "imagenes/places/lugar19.png",
+    "CountryId": 6,
+    "CategoryId": 1
+  }
+]
